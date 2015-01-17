@@ -1,3 +1,7 @@
+body {
+
+    display:none;
+}
 .post-footer-line > *:first-child {
     background: none repeat scroll 0 0 #bcdb00;
     color: #107900;
